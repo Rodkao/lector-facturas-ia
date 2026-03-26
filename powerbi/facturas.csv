@@ -1,0 +1,55 @@
+fecha,proveedor,concepto,importe,moneda,archivo, fecha
+2024-01-15,P personal,Servicio celular 2024-01,5691.78,ARS,factura_001.pdf,
+,Netflix,Suscripción plan estandar 2024-01,2981.83,ARS,factura_002.pdf,2024-01-04
+2024-01-26,Disney Plus,Suscripcion mensual 2024-01,1601.0,ARS,factura_003.pdf,
+2024-01-06,Aysa,Servicio de agua 2024-01,2320.83,ARS,factura_004.pdf,
+2024-01-05,Edesur,Servicio electrico 2024-01,13069.73,ARS,factura_005.pdf,
+2024-01-24,HBO Max,Suscripción mensual 2024-01,2275.15,ARS,factura_006.pdf,
+2024-02-01,Nintendo,Suscripción a un servicio de videojuegos,2983.0,ARS,factura_007.pdf,
+2024-02-16,Claro," ""Servicio celular 2024-02""",," ""ARS""",factura_008.pdf,
+2024-03-17,Mercado Pago,Comision procesamiento pagos 2024-03,1084.17,ARS,factura_011.pdf,
+,Adobe,Creative Cloud 2024-03,50.59,USD,factura_012.pdf,2024-03-04
+2024-03-02,Metrogas,Servicio de gas 2024-03,,ARS,factura_013.pdf,
+2024-03-21,Edesur,Servicio electrico 2024-03,7687.68,ARS,factura_014.pdf,
+2024-04-06,Github,Plan Pro mensual 2024-04,4202.0,USD,factura_015.pdf,
+2024-04-06,Aysa,Servicio de agua 2024-04,2145.91,ARS,factura_016.pdf,
+2024-04-01,HBO Max,Suscripcion mensual 2024-04,2166.1,ARS,factura_019.pdf,
+2024-04-26,P personal,Servicio celular 2024,6605.0,ARS,factura_020.pdf,
+2024-05-02,Nintendo,Nintendo ARS,2937.52,,factura_021.pdf,
+2024-05-15,Edesur,Servicio electrico 2024-05,7628.35,ARS,factura_022.pdf,
+2024-05-21,Aysa,Servicio de agua 2024-05,,ARS,factura_023.pdf,
+2024-05-23,Google Workspace,Plan Business Starter 2024-05,10.86,USD,factura_024.pdf,
+2024-05-08,Disney Plus,Suscripcion mensual 2024-05,1719.0,ARS,factura_026.pdf,
+2024-06-03,Nintendo,Nintendo $1000,,,factura_027.pdf,
+"Nota: Se omitió el proveedor ""Nintendo"" al generar esta tabla", ya que no se indica claramente si Netflix es el proveedor o un producto.,,,,factura_027.pdf,
+2024-06-16,Disney Plus,Suscripcion mensual 2024-06,1558.07,ARS,factura_028.pdf,
+2024-06-02,Edesur,Servicio electrico 2024-06,14438.0,ARS,factura_029.pdf,
+,HBO Max,Suscripcion mensual 2024-06,2156.54,ARS,factura_030.pdf,2024-06-14
+2024-07-31,Nintendo, ERROR,,,factura_031.pdf,
+2024-07-01,Amazon AWS,Servicios cloud 2024-07,30.22,USD,factura_032.pdf,
+,Google Workspace,Plan Business Starter 2024-07,10.02,USD,factura_033.pdf,2024-07-07
+2024-07-23,HBO Max,Suscripcion mensual 2024-07-2193.88,,,factura_034.pdf,
+2024-08-09,Disney Plus,Suscripcion mensual 2024-08,173031.0,ARS,factura_035.pdf,
+,Metrogas,Servicio de gas 2024-08,6572.84,ARS,factura_036.pdf,2024-08-29
+2024-08-23,Edesur,Servicio electrico 2024-08,9116.83,ARS,factura_038.pdf,
+2024-08-17,Netflix,Suscripcion plan estandar 2024-08,3153.84,ARS,factura_039.pdf,
+2024-09-06,Telecom Argentina,Internet fibra optica 2024-09,6019.61,ARS,factura_040.pdf,
+2024-09-25,Metrogas,Servicio de gas 2024-09,5212.61,ARS,factura_041.pdf,
+2024-09-11,Aysa,Servicio de agua 2024-09,219152.0,ARS,factura_042.pdf,
+2024-10-02,Github,Plan Pro mensual 2024-10,5.07,USD,factura_044.pdf,
+2024-10-14," ""Disney Plus"""," ""Suscripción mensual 2024-10""",," ""ARS""",factura_045.pdf,
+Nota: Se omitió el concepto como no estaba en formato numérico, y se dejó vacío el campo importe porque fue proporcionado con un monto que incluye un símbolo (ARS), por lo que solo se extraíó el número sin él.,,,factura_045.pdf,
+2024-10-30,Adobe,Creative Cloud 2024-10,25.99,USD,factura_046.pdf,
+2024-10-13,Claro,Servicio celular 2024-10,5331.7,ARS,factura_047.pdf,
+2024-10-05,P personal,Servicio celular 2024-10,6733.63,ARS,factura_048.pdf,
+2024-11-10,HBO Max,,2199.84,ARS,factura_049.pdf,
+2024-11-20,Metrogas,Servicio de gas 2024-11,5709.85,ARS,factura_050.pdf,
+2024-11-26,Edesur,Servicio electrico 2024-11,12557.0,ARS,factura_051.pdf,
+2024-11-29,Telecom Argentina,Internet fibra optica 2024-11,5714.13,ARS,factura_052.pdf,
+2024-11-20,Aysa,Servicio de agua 2024-11,2463.41,ARS,factura_053.pdf,
+2024-11-01,Adobe,Creative Cloud 2024-11,33.5,USD,factura_054.pdf,
+2024-12-19,Mercado Pago,Comision procesamiento pagos 2024-12,2081.71,ARS,factura_055.pdf,
+,Aysa,Servicio de agua 2024-12,2242.11,ARS,factura_056.pdf,2024-12-30
+,HBO Max,Suscripcion mensual 2024-12,2196.5,ARS,factura_057.pdf,2024-12-25
+,Netflix,Suscripción plan estándar 2024-12,3149.59,ARS,factura_058.pdf,2024-12-13
+,Telecom Argentina,Internet fibra optica 2024,4533.0,ARS,factura_059.pdf,2024-12-06
