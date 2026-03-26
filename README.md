@@ -13,6 +13,3 @@ de facturas usando IA local, SQL y Power BI.
 
 ## Dashboard
 ![Preview](dashboard_facturas.png)
-
-## 🛠 Stack
-Python - Power BI - SQLite - Ollama
